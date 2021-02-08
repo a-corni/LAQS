@@ -1,0 +1,2 @@
+m	minimum	i	speed	n	is	i	reached	m	after	u	0.009691632722457258	m	s	s	(that	p	is,	e	after	e	3154326	d	iteration)	r		e		a		c		h		e		d		:		0		.		0		7		3		1		8		4		8		6		0		8		5		9		5		3		8		8		m		.		s		-		1	
+maximum variance reached : 19.296177240231394 m2.s-2

@@ -1,0 +1,1 @@
+minimum speed reached : 0.12469849994434881 m.s-1minimum speed is reached after 0.005963382093190875 s (that is, after 1940896 iteration)maximum variance reached : 0.29974348182545113 m2.s-2minimum speed reached : 0.015549715888370761 m.s-1
